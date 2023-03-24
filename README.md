@@ -3,6 +3,7 @@ DO NOT RUN THIS UNDER ANY MEANS. Basically it's a random number generator betwee
 # Code:
 
 import random
+
 import os
 
 if random.randint(0, 6) == 1:
